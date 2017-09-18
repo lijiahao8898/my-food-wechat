@@ -1,0 +1,17 @@
+/* pages/list/list.wxss */
+.list {
+  width: 25%;
+  margin: 0 auto;
+  padding: 5px 0;
+  color: #666;
+  /* background: #5d5d5d; */
+  border-bottom: 1px solid #fff;
+}
+
+.list-item {
+  font-size: 12px;
+}
+
+.hoverList {
+  background: #000;
+}

@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/list/list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ccc",
+    "backgroundColor": "#000",
+    "navigationBarTitleText": "李大胖美食天地",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#fff",
+    "selectedColor": "#ccc",
+    "backgroundColor": "#eee",
+    "borderStyle": "white",
+    "position": "top",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "美食列表"
+      }
+    ]
+  }
+}
